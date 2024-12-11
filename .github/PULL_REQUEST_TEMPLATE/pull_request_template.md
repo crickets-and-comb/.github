@@ -5,6 +5,10 @@ Please delete options that are not relevant.
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected).
 - [ ] This change requires a documentation update.
 
+# Related issue:
+
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#referencing-issues-and-pull-requests
+
 # Summary
 
 ## What is the current behavior?
