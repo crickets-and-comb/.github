@@ -11,4 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-This is a place to hold projects that Kaleb Coberly maintains. Others may join later, or maybe not.
+We develop and maintain open-source software for nonprofits and good causes, like a local food bank. This sometimes results in spinning off more generally useful tools and modules.
