@@ -1,4 +1,4 @@
-name: Dispatch Restrict External PRs # Dummy cmmnt
+name: Dispatch Restrict External PRs # Dummy comment.
 
 on:
   pull_request_target:
